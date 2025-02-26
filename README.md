@@ -25,7 +25,7 @@ Version control, particularly with GitHub, is essential for modern software deve
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 1. Sign in to GitHub
 •	Go to GitHub and log into your account.
-•	If you don’t have an account, sign up for one.
+•	If you don’t have an account, sign up for one.   
 2. Create a New Repository
 •	Click on the + icon in the top-right corner and select "New repository" from the dropdown menu.
 •	Alternatively, navigate to Your repositories and click "New" then create
